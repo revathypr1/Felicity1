@@ -1,0 +1,8 @@
+ol,
+ul {
+  list-style: none;
+}
+.slick-dots li:last-child {
+  display: none;
+  
+}
